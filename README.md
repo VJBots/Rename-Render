@@ -15,7 +15,7 @@
  - Set custom caption.
  - Has a custom Start-up pic.
  - Force subscribe available.
- - Supports ulimited renaming at a time.
+ - Supports unlimited renaming at a time.
  - Developer Service 24x7. 🔥
 
 ### 🚦 Commands
