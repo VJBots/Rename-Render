@@ -22,11 +22,17 @@
 `/start` - Check if the bot is running.
 
 `/viewthumb` - To view current thumbnail.
+
 `/delthumb` - To delete current thumbnail.
+
 `/set_caption` - set a custom caption.
+
 `/see_caption` - see your custom caption.
+
 `/del_caption` - delete custom caption.
+
 `/users` - To view list of users, using BOT [FOR ADMINS USE ONLY]
+
 `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
 
 #### 🧡 CREDITS 🧡
