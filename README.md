@@ -20,6 +20,7 @@
 
 ### 🚦 Commands
 `/start` - Check if the bot is running.
+
 `/viewthumb` - To view current thumbnail.
 `/delthumb` - To delete current thumbnail.
 `/set_caption` - set a custom caption.
