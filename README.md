@@ -1,13 +1,3 @@
-### ⚡️ Configs 
-
-* `BOT_TOKEN`  - Get bot token from @BotFather
-* `API_ID` - From my.telegram.org 
-* `API_HASH` - From my.telegram.org 
-* `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
-* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
-* `DB_NAME`  - Your database name from mongoDB.
-
-
 #### 🥰 Features
  - Renames very fast .
  - Permanent Thumbnail support.
@@ -17,6 +7,45 @@
  - Force subscribe available.
  - Supports unlimited renaming at a time.
  - Developer Service 24x7. 🔥
+
+ ### ⚡️ Configs 
+
+* `BOT_TOKEN`  - Get bot token from @BotFather
+* `API_ID` - From my.telegram.org 
+* `API_HASH` - From my.telegram.org 
+* `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
+* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
+* `DB_NAME`  - Your database name from mongoDB.
+
+
+### Deploy on VPS
+```
+git clone https://github.com/WebX-Divin/Rename-Bot-V1.0
+```
+
+```
+cd Rename-Bot-V1.0
+```
+
+```
+apt install python3-pip
+```
+
+```
+pip install -r requirements.txt
+```
+
+```
+sudo apt install tmux-y
+```
+
+```
+tmux
+```
+
+```
+python3 bot.py
+```
 
 ### 🚦 Commands
 `/start` - Check if the bot is running.
