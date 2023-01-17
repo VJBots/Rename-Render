@@ -1,4 +1,4 @@
-#### 🥰 Features
+####  Features
  - Renames very fast .
  - Permanent Thumbnail support.
  - Supports Broadcasts.
@@ -8,7 +8,7 @@
  - Supports unlimited renaming at a time.
  - Developer Service 24x7. 🔥
 
- ### ⚡️ Configs 
+ ###  Configs 
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 * `API_ID` - From my.telegram.org 
@@ -46,8 +46,15 @@ tmux
 ```
 python3 bot.py
 ```
-
-### 🚦 Commands
+### Deploy on Render
+ - Star and click on the Use this Template Button.
+ - Set Your Repo as Private.
+ - Add your Environmental Variables in the config.py file.
+ - Go to Render and Create a new web service and turn of Auto Deploy.
+ - Then scroll down and click on the 'Create Web Service' Button.
+ - That's it. You're Done.
+ 
+###  Commands
 `/start` - Check if the bot is running.
 
 `/viewthumb` - To view current thumbnail.
