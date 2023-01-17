@@ -1,3 +1,5 @@
+### Give a star and Fork the Repo or You can Use this as a Template also.
+
 ####  Features
  - Renames very fast .
  - Permanent Thumbnail support.
@@ -53,7 +55,7 @@ python3 bot.py
  - Go to Render and Create a new web service and turn of Auto Deploy.
  - Then scroll down and click on the 'Create Web Service' Button.
  - That's it. You're Done.
- 
+
 ###  Commands
 `/start` - Check if the bot is running.
 
