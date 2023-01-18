@@ -32,13 +32,13 @@ git clone https://github.com/WebX-Divin/Rename-Bot-V1.0
 ```
 cd Rename-Bot-V1.0
 ```
- * Inside the cloned folder install the pip, by the following command.
+ * Inside the cloned folder edit config.py and install the pip, by the following command.
 
 ```
 apt install python3-pip
 ```
  * Install the required modules using the following command.
- 
+
 ```
 pip install -r requirements.txt
 ```
