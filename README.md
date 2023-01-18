@@ -37,6 +37,8 @@ apt install python3-pip
 pip install -r requirements.txt
 ```
 
+ * If you want to run the bot 24x7, then use this command to create a nested virtual environment.
+
 ```
 sudo apt install tmux-y
 ```
@@ -46,6 +48,9 @@ tmux
 ```
 
 ```
+
+ * If you don't use tmux, then you can directly use this command after the requirements.txt is installed in your VPS.
+ 
 python3 bot.py
 ```
 ### Deploy on Render
