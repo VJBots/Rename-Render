@@ -57,6 +57,7 @@ tmux
 ```
 python3 bot.py
 ```
+
 ### Deploy on Render
  - Star and click on the Use this Template Button.
  - Set Your Repo as Private.
@@ -64,6 +65,7 @@ python3 bot.py
  - Go to Render and Create a new web service and turn of Auto Deploy.
  - Then scroll down and click on the 'Create Web Service' Button.
  - That's it. You're Done.
+
 
 ###  Commands
 `/start` - Check if the bot is running.
@@ -82,9 +84,7 @@ python3 bot.py
 
 `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
 
-#### 🧡 CREDITS 🧡
-- [Team-Pyro](https://github.com/TEAM-PYRO-BOTZ) For this awesome src 😘
 
-#### Join Telegram Channel for more Updates
- - [WebXBots](https://t.me/WebXBots).
- - Support Channel [WebX-Support](https://t.me/Web_X_Support).
+#### Join Telegram Channel 
+ - [WebXBots](https://t.me/WebXBots). Bot Updates Channel
+ - Support Group [WebX-Support](https://t.me/Web_X_Support). For Bug report.
