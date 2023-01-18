@@ -21,18 +21,24 @@
 
 
 ### Deploy on VPS
+
+ * Clone the Repo.
+
 ```
 git clone https://github.com/WebX-Divin/Rename-Bot-V1.0
 ```
+ * Move to the Repo Folder in the VPS.
 
 ```
 cd Rename-Bot-V1.0
 ```
+ * Inside the cloned folder install the pip, by the following command.
 
 ```
 apt install python3-pip
 ```
-
+ * Install the required modules using the following command.
+ 
 ```
 pip install -r requirements.txt
 ```
