@@ -46,11 +46,9 @@ sudo apt install tmux-y
 ```
 tmux
 ```
-
-```
-
- * If you don't use tmux, then you can directly use this command after the requirements.txt is installed in your VPS.
+* If you don't use tmux, then you can directly use this command after the requirements.txt is installed in your VPS.
  
+```
 python3 bot.py
 ```
 ### Deploy on Render
