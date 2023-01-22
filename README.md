@@ -37,6 +37,12 @@ cd Rename-Bot-V1.0
 ```
 apt install python3-pip
 ```
+
+ * Make sure you update your directory once you installed pip
+ ```
+ apt update && upgrade
+ ```
+ 
  * Install the required modules using the following command.
 
 ```
@@ -46,7 +52,7 @@ pip install -r requirements.txt
  * If you want to run the bot 24x7, then use this command to create a nested virtual environment.
 
 ```
-sudo apt install tmux-y
+sudo apt install tmux
 ```
 
 ```

@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "-1001860403687") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "https://t.me/WebXBots") 
 
 DB_NAME = os.environ.get("DB_NAME","")     
 
