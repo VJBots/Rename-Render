@@ -35,7 +35,7 @@ async def doc(bot,update):
      ms = await update.message.edit("⚠️__**Please wait...**__\n__Downloading file to my server...__")
      c_time = time.time()
      try:
-     	path = await bot.download_media(message = file, progress=progress_for_pyrogram,progress_args=( "\n⚠️__**Please wait...**__\n\n😈 **Hack in progress...**",  ms, c_time   ))
+     	path = await bot.download_media(message = file, progress=progress_for_pyrogram,progress_args=( "\n⚠️__**Please wait...**__\n\n😈 **WebX Hack in progress...**",  ms, c_time   ))
      except Exception as e:
      	await ms.edit(e)
      	return 

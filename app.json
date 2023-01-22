@@ -2,7 +2,7 @@
     "name": "WebX Renamer Bot",
     "description": "Telegram File Renamer Bot ",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/WebX-Renamer-Bot",
+    "repository": "https://github.com/WebX-Divin/Rename-Bot-V1.0",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
