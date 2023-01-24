@@ -16,6 +16,7 @@
 * `API_ID` - From my.telegram.org 
 * `API_HASH` - From my.telegram.org 
 * `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
+* `FORCE_SUB` - Force Subscribe Channel name without@. Enable only if you need strict mode.
 * `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
 * `DB_NAME`  - Your database name from mongoDB.
 
