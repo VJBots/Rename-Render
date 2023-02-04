@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "35142c1407be6264e68fb6bec5dcabd9")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5994040795:AAHPCLOF60ygdiMhkO4w9MM8dSvLtMJ5rYw") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Bots") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "-1001710985956") 
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
@@ -16,7 +16,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://Demo123:Demo123@cluster0.07fqvh
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
-START_PIC = os.environ.get("START_PIC", None)
+START_PIC = os.environ.get("START_PIC", "https://te.legra.ph/file/119729ea3cdce4fefb6a1.jpg")
 
 ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5606411877').split()]
 
