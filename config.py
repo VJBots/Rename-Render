@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Bots")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://VJlink:VJLink@cluster0.ucnckh4.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://vijayaman358:wJjuKJCmLKGjolwI@cluster0.xdo3z0m.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
