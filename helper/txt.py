@@ -1,6 +1,6 @@
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ WebX Bot Renaming... ❱━➣
+╭━━━━❰ VJ Bot Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
