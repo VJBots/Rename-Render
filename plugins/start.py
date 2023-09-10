@@ -26,7 +26,7 @@ async def start(client, message):
         ],[
         InlineKeyboardButton(" Join Our Movie Channel !", url='https://t.me/VJ_Bots')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/@movietimeguru6265')
+        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/@Tech_VJ')
         ]
         ])
     if START_PIC:
@@ -80,7 +80,7 @@ async def cb_handler(client, query: CallbackQuery):
         ],[
         InlineKeyboardButton(" Join Our Movie Channel !", url='https://t.me/vj_bots')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/@movietimeguru6265')
+        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/@Tech_VJ')
         ]
         ]
                 )
