@@ -28,12 +28,12 @@
  * Clone the Repo.
 
 ```
-git clone https://github.com/WebX-Divin/Rename-Bot-V1.0
+git clone https://github.com/VJBots/Rename-Render
 ```
  * Move to the Repo Folder in the VPS.
 
 ```
-cd Rename-Bot-V1.0
+cd Rename-Render
 ```
  * Inside the cloned folder edit config.py and install the pip, by the following command.
 
