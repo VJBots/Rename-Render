@@ -3,6 +3,8 @@
 ####  Features
  - Renames very fast .
  - Permanent Thumbnail support.
+ - Convert Video To File.
+ - Convert File To Video.
  - Supports Broadcasts.
  - Set custom caption.
  - Has a custom Start-up pic.
