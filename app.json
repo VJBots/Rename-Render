@@ -1,13 +1,8 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-
 {
-    "name": "WebX Renamer Bot",
+    "name": "VJ Renamer Bot",
     "description": "Telegram File Renamer Bot ",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/WebX-Divin/Rename-Bot-V1.0",
+    "repository": "https://github.com/VJBots/Rename-Render",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
