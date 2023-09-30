@@ -93,5 +93,5 @@ python3 bot.py
 
 
 #### Join Telegram Channel 
- - [WebXBots](https://t.me/WebXBots). Bot Updates Channel
- - Support Group [WebX-Support](https://t.me/Web_X_Support). For Bug report.
+ - [VJ Botz](https://telegram.me/VJ_Botz). Bot Updates Channel
+ - Support Group [VJ-Support](https://telegram.me/VJ_Bot_Disscussion). For Bug report.
