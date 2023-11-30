@@ -7,8 +7,3 @@ pyrogram==2.0.35
 TgCrypto
 dnspython
 aiohttp
-
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
